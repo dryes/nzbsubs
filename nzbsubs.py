@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Author: Joseph Wiseman <joswiseman@gmail>
+# Author: Joseph Wiseman <joswiseman@cock.li>
 # URL: https://github.com/dryes/nzbsubs/
 
 import cgi,os,re,sys
